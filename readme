@@ -1,0 +1,3 @@
+sudo apt-get install squashfs-tools
+./extriso.sh ubuntu.iso
+./packiso.sh ubuntu_new.iso
