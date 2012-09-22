@@ -2,3 +2,5 @@ tmpcd
 tmpcd_copied
 squashfs-root
 *.iso
+*.pyc
+*~
